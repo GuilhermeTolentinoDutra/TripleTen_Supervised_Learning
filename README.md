@@ -1,6 +1,6 @@
 # TripleTen_Supervised_Learning
 Projeto realizado para análise de Churn de clientes de um banco fictício
-__________________________________________
+
 # Descrição do projeto
 Os clientes do Beta Bank estão saindo: pouco a pouco, escapulindo todo mês. 
 Os banqueiros descobriram que é mais barato manter os clientes existentes do que atrair novos.
